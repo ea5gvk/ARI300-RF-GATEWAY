@@ -1,4 +1,4 @@
-# ARI300-RF-GATEWAY by LU4AEY
+# ARI300-RF-GATEWAY by LU4AE
 
 ![alt text](https://raw.githubusercontent.com/hp3icc/ARI300-RF-GATEWAY/main/ari300rf-gateway.jpg)
 
@@ -6,7 +6,7 @@
 
 # Descripcion:
 
-ARI300 , es un cliente USRP PC RF Gateway, con tx ptt y rx serial com control, de desarrollo 100% del colega LU4AEY Claudio Zanella, permite utilizar un radio Analogico como nodo conectado a una red Digital, permitiendo a las estaciones que no cuentan con radios digitales , tener comunicacion con redes digitales de radio , desde un sencillo radio analogico.
+ARI300 , es un cliente USRP PC RF Gateway, con tx ptt y rx serial com control, de desarrollo 100% del colega LU4AE Claudio Zanella, permite utilizar un radio Analogico como nodo conectado a una red Digital, permitiendo a las estaciones que no cuentan con radios digitales , tener comunicacion con redes digitales de radio , desde un sencillo radio analogico.
 
 #
 
@@ -42,7 +42,7 @@ ARI300, es compatible con cualquier cable o interface conocido utilizado para ap
 
 Cada usuario podra editar los pines de comunicacion que utiliza su cable DB9 para TX (PTT) o RX (COS - COR) desde el archivo de configuracion.
 
-Si no cuenta con con un interface o cable , el colega LU4AEY nos comparte un circuito basico y economico , que puede ensamblar por menos de 5 dolares: 
+Si no cuenta con con un interface o cable , el colega LU4AE nos comparte un circuito basico y economico , que puede ensamblar por menos de 5 dolares: 
 
 ![alt text](https://raw.githubusercontent.com/hp3icc/ARI300-RF-GATEWAY/main/Interface-ARI300--Circuito-Electrico-.jpg)
 
@@ -54,4 +54,4 @@ Importante, para que el software identifique la actividad de señal analoga, el 
 
 #
 
-<p>Mas informacion en el siguiente link : <a href="http://www.argentina-room.dns-cloud.net/" target="_blank">Argentina Room</a></p>
+<p>Mas informacion en el siguiente link : <a href="https://lu4ae.com.ar/" target="_blank">Argentina Room</a></p>
