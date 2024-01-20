@@ -44,7 +44,7 @@ Cada usuario podra editar los pines de comunicacion que utiliza su cable DB9 par
 
 Si no cuenta con con un interface o cable , el colega LU4AE nos comparte un circuito basico y economico , que puede ensamblar por menos de 5 dolares: 
 
-![alt text](https://raw.githubusercontent.com/hp3icc/ARI300-RF-GATEWAY/main/Interface-ARI300--Circuito-Electrico-.jpg)
+![alt text](https://raw.githubusercontent.com/hp3icc/ARI300-RF-GATEWAY/main/Interface-ARI300.jpg)
 
 #
 
