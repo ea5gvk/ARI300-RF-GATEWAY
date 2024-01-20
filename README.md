@@ -46,7 +46,7 @@ Si no cuenta con con un interface o cable , el colega LU4AE nos comparte un circ
 
 ![alt text]()
 
-<img src="https://gitlab.com/hp3icc/ARI300-RF-GATEWAY/-/raw/main/image/Interface-ARI300.jpg" width="500" height="750">
+<img src="https://gitlab.com/hp3icc/ARI300-RF-GATEWAY/-/raw/main/image/Interface-ARI300.jpg" width="400" height="650">
 
 #
 
