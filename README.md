@@ -1,6 +1,6 @@
 # ARI300-RF-GATEWAY by LU4AE
 
-![alt text](https://raw.githubusercontent.com/hp3icc/ARI300-RF-GATEWAY/main/ari300rf-gateway.jpg)
+![alt text](https://gitlab.com/hp3icc/ARI300-RF-GATEWAY/-/raw/main/image/ari300rf-gateway.jpg)
 
 #
 
@@ -26,13 +26,13 @@ Edite los archivos ARI300.ini y DMR_TalkGroups.def , con sus datos, los datos de
 
 * ARI300.ini
 
-![alt text](https://raw.githubusercontent.com/hp3icc/ARI300-RF-GATEWAY/main/ARI300INI.jpg)
+<img src="https://gitlab.com/hp3icc/ARI300-RF-GATEWAY/-/raw/main/image/ARI300INI.jpg" width="500" height="500">
 
 #
 
 * DMR_TalkGroups.def
 
-![alt text](https://raw.githubusercontent.com/hp3icc/ARI300-RF-GATEWAY/main/DMR_TalkGroups.jpg)
+![alt text](https://gitlab.com/hp3icc/ARI300-RF-GATEWAY/-/raw/main/image/DMR_TalkGroups.jpg)
 
 #
 
@@ -44,7 +44,9 @@ Cada usuario podra editar los pines de comunicacion que utiliza su cable DB9 par
 
 Si no cuenta con con un interface o cable , el colega LU4AE nos comparte un circuito basico y economico , que puede ensamblar por menos de 5 dolares: 
 
-![alt text](https://gitlab.com/hp3icc/ARI300-RF-GATEWAY/-/raw/main/Interface-ARI300.jpg)
+![alt text]()
+
+<img src="https://gitlab.com/hp3icc/ARI300-RF-GATEWAY/-/raw/main/image/Interface-ARI300.jpg" width="500" height="750">
 
 #
 
