@@ -14,7 +14,7 @@ ARI300 , es un cliente USRP PC RF Gateway, con tx ptt y rx serial com control, d
 
 descargue el archivo comprimido desde el siguiente link:
 
-<p><a href="https://gitlab.com/hp3icc/ARI300-RF-GATEWAY/-/raw/main/ARI300_RF_Gateway.zip?ref_type=heads&inline=false" target="_blank">ARI300-RF-GATEWAY</a></p>
+<p><a href="https://github.com/ea5gvk/ARI300-RF-GATEWAY/-/raw/main/ARI300_RF_Gateway.zip?ref_type=heads&inline=false" target="_blank">ARI300-RF-GATEWAY</a></p>
 
 descomprima el archivo descargado y edite los archivos de configuracion remplazando los datos por los suyos 
 
