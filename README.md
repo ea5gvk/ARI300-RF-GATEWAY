@@ -44,11 +44,11 @@ Cada usuario podra editar los pines de comunicacion que utiliza su cable DB9 par
 
 Si no cuenta con con un interface o cable , el colega LU4AE nos comparte un circuito basico y economico , que puede ensamblar por menos de 5 dolares: 
 
-<img src="https://gitlab.com/hp3icc/ARI300-RF-GATEWAY/-/raw/main/image/Interface-ARI300.jpg" width="500" height="500">
+<img src="https://github.com/ea5gvk/ARI300-RF-GATEWAY/blob/main/image/Interface-ARI300.jpg" width="500" height="500">
 
 #
 
-<img src="https://gitlab.com/hp3icc/ARI300-RF-GATEWAY/-/raw/main/image/bc547-vs-2n2222.gif" width="550" height="500">
+<img src="https://github.com/ea5gvk/ARI300-RF-GATEWAY/blob/main/image/bc547-vs-2n2222.gif" width="550" height="500">
 
 Si tiene un transistor  BC547, puede utilizarlo en remplazo del 2n2222, ambos son tipo NPN , pero su pinout es distinto, esto es muy importante al momento de conectarlo para su correcto funcionamiento , en la imagen puede observar la diferencia entre el transistor BC547 y el transistor 2N2222. 
 
