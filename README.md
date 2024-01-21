@@ -1,6 +1,6 @@
 # ARI300-RF-GATEWAY by LU4AE
 
-![alt text](https://gitlab.com/hp3icc/ARI300-RF-GATEWAY/-/raw/main/image/ari300rf-gateway.jpg)
+![alt text](https://github.com/ea5gvk/ARI300-RF-GATEWAY/blob/main/image/ari300rf-gateway.jpg)
 
 #
 
@@ -26,13 +26,13 @@ Edite los archivos ARI300.ini y DMR_TalkGroups.def , con sus datos, los datos de
 
 * ARI300.ini
 
-<img src="https://gitlab.com/hp3icc/ARI300-RF-GATEWAY/-/raw/main/image/ARI300INI.jpg" width="500" height="500">
+<img src="https://github.com/ea5gvk/ARI300-RF-GATEWAY/blob/main/image/ARI300INI.jpg" width="500" height="500">
 
 #
 
 * DMR_TalkGroups.def
 
-![alt text](https://gitlab.com/hp3icc/ARI300-RF-GATEWAY/-/raw/main/image/DMR_TalkGroups.jpg)
+![alt text](https://github.com/ea5gvk/ARI300-RF-GATEWAY/blob/main/image/DMR_TalkGroups.jpg)
 
 #
 
