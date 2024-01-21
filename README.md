@@ -48,12 +48,12 @@ Si no cuenta con con un interface o cable , el colega LU4AE nos comparte un circ
 
 #
 
-# BC447 O 2N2222
+# BC447 vs 2N2222
 
 Si tiene un transistor  BC547, puede utilizarlo en remplazo del 2n2222, ambos son tipo NPN , pero su pinout es distinto, esto es muy importante al momento de conectarlo para su correcto funcionamiento , en la imagen puede observar la diferencia entre el transistor BC547 y el transistor 2N2222. 
 
+<img src="https://gitlab.com/hp3icc/ARI300-RF-GATEWAY/-/raw/main/image/bc547-vs-2n2222.gif" width="500" height="500">
 
-![alt text](https://gitlab.com/hp3icc/ARI300-RF-GATEWAY/-/raw/main/image/bc547-vs-2n2222.gif | width=300)
 
 #
 
